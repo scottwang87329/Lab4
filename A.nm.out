@@ -1,0 +1,5 @@
+0000000100000f30 T __Z7averagePdRd
+0000000100000f60 T __Z7averageif
+0000000100000000 T __mh_execute_header
+0000000100000f90 T _main
+                 U dyld_stub_binder
